@@ -1,4 +1,4 @@
-***Polynomial Solver***
+ **Polynomial Solver**
 
 This simple code in javascript takes a json file as input and which is the below format:
 ```
