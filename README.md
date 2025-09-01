@@ -1,6 +1,6 @@
  ## Polynomial Solver
 
-This simple code in javascript takes a JSON file as input, which is in the below format:
+This javascript assignment takes a JSON file as input, which is in the below format:
 ```
 input.json
 {
