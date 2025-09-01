@@ -27,7 +27,9 @@ Sample file
 }
 ```
 n: The number of roots provided in the given JSON
+
 k: The minimum number of roots required to solve for the coefficients of the polynomial 
+
 k = m + 1, where m is the degree of the polynomial 
 
 Returns an output which contains the roots of the polynomial based on the json file.
