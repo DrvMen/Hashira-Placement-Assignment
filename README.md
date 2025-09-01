@@ -28,6 +28,7 @@ input.json
 ```
 
 ```
+input2.json
 {
 "keys": {
     "n": 10,
