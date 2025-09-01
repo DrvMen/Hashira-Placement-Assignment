@@ -25,8 +25,8 @@ This simple code in javascript takes a json file as input and which is the below
     }
 }
 ```
-n: The number of roots provided in the given JSON
-k: The minimum number of roots required to solve for the coefficients of the polynomial
-k = m + 1, where m is the degree of the polynomial
+n: The number of roots provided in the given JSON /n
+k: The minimum number of roots required to solve for the coefficients of the polynomial /n
+k = m + 1, where m is the degree of the polynomial /n
 
 Returns an output which contains the roots of the polynomial based on the json file.
