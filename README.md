@@ -1,6 +1,6 @@
  ## Polynomial Solver
 
-This simple code in javascript takes a json file as input, which is the below format:
+This simple code in javascript takes a JSON file as input, which is in the below format:
 ```
 Sample file
 {
@@ -41,7 +41,7 @@ npm install
 
 ****How to run:****
 
-Save the the json file as input.json for the first test case and input2.json for the second and run the following command for the output:
+Save the the json file as **input.json** for the first test case and **input2.json** for the second and run the following command in your terminal:
 ```
 node solverpoly.js
 ```
