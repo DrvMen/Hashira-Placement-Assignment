@@ -34,12 +34,13 @@ k = m + 1, where m is the degree of the polynomial
 
 Returns an output which contains the roots of the polynomial based on the json file.
 
-******Install any dependencies if required:**
+**Install any dependencies if required:**
 ```
 npm install
 ```
 
 ****How to run:****
+
 Save the the json file as input.json for the first test case and input2.json for the second and run the following command for the output:
 ```
 node solverpoly.js
