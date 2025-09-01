@@ -1,6 +1,6 @@
  **Polynomial Solver**
 
-This simple code in javascript takes a json file as input and which is the below format:
+This simple code in javascript takes a json file as input, which is the below format:
 ```
 Sample file
 {
@@ -31,3 +31,10 @@ k: The minimum number of roots required to solve for the coefficients of the pol
 k = m + 1, where m is the degree of the polynomial 
 
 Returns an output which contains the roots of the polynomial based on the json file.
+
+**How to run:**
+Save the the json file as input.json for the first test case and input2.json for the second and run the following command for the output:
+```
+node solverpoly.js
+```
+make sure your solverpoly.js is in the same folder as both the input files.
